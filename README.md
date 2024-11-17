@@ -1,2 +1,3 @@
 # Calculator
- Calculator project with dark mode - Front (HTML+CSS+JS)
+ Calculator project with dark mode 
+ Frontend: Technologies used >> (HTML + CSS + JS)
